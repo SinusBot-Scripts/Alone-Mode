@@ -1,21 +1,21 @@
 {
-  "name": "@sinusbot-scripts/script-name",
-  "version": "1.0.0",
-  "description": "Script description.",
-  "main": "script-name.js",
+  "name": "@sinusbot-scripts/alone-mode",
+  "version": "3.4.0",
+  "description": "This script will save CPU and bandwidth by stopping or muting the bot when nobody is listening anyways.",
+  "main": "alonemode.js",
   "scripts": {
     "test": "node dummy-test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinusbot-scripts/script-name.git"
+    "url": "git+https://github.com/sinusbot-scripts/alone-mode.git"
   },
   "author": "SinusBot Contributors <sinusbot-contributors@aitsys.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sinusbot-scripts/script-name/issues"
+    "url": "https://github.com/sinusbot-scripts/alone-mode/issues"
   },
-  "homepage": "https://github.com/sinusbot-scripts/script-name#readme",
+  "homepage": "https://github.com/sinusbot-scripts/alone-mode#readme",
   "devDependencies": {
     "sinusbot-scripting-engine": "^1.0.18"
   }
